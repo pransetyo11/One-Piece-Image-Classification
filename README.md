@@ -51,7 +51,7 @@ Model dibangun menggunakan pendekatan Deep Learning dengan Convolutional Neural 
 Tahapan utama dalam proyek ini meliputi:
 1. Pengumpulan dataset
 2. Pembagian dataset menjadi data training, validation, dan testing
-3. Pembuatan model CNN
+3. Pembuatan model MobileNet + custom CNN block
 4. Proses training model
 5. Evaluasi performa model
 6. Konversi model 
